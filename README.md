@@ -1,9 +1,16 @@
+![TimeZoneIdentifier](image.png)
+
 # List of Time Zones Identifiers for Swift 🌍
 
-[![Swift](https://img.shields.io/badge/Swift-5.5-brightgreen.svg)](https://swift.org)
+[![Swift](https://img.shields.io/badge/Swift-5.9-brightgreen.svg)](https://swift.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nzrsky/TimeZoneIdentifier/blob/main/LICENSE)
+
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+[![GitHub Actions](https://github.com/nzrsky/TimeZoneIdentifier/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/nzrsky/TimeZoneIdentifier/actions)
+[![Coverage](https://codecov.io/gh/nzrsky/TimeZoneIdentifier/branch/main/graph/badge.svg)](https://codecov.io/gh/nzrsky/TimeZoneIdentifier)
+[![Documentation](https://raw.githubusercontent.com/nzrsky/TimeZoneIdentifier/gh-pages/badge.svg)](https://nzrsky.github.io/TimeZoneIdentifier)
 
 ## Overview
 
@@ -68,4 +75,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Made with ❤️ by Alexey Nazarov 
+Made in 🇱🇻 by Alexey Nazarov 
