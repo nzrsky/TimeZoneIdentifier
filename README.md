@@ -12,6 +12,10 @@
 [![Coverage](https://codecov.io/gh/nzrsky/TimeZoneIdentifier/branch/main/graph/badge.svg)](https://codecov.io/gh/nzrsky/TimeZoneIdentifier)
 [![Documentation](https://raw.githubusercontent.com/nzrsky/TimeZoneIdentifier/gh-pages/badge.svg)](https://nzrsky.github.io/TimeZoneIdentifier)
 
+<div align="center">
+  <img src="image.png" alt="" style="display: inline-block;" width="50%">
+</div>
+
 ## Overview
 
 This Swift library provides a convenient way to handle time zones through the `TimeZoneConvertible` protocol and the `TimeZoneIdentifier` enum. Whether you need the current system time zone, an auto-updating time zone, or specific global time zones, this library has got you covered.
@@ -75,4 +79,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Made in 🇱🇻 by Alexey Nazarov 
+Made in 🇱🇻 by Alex Nazarov
