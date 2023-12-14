@@ -65,7 +65,7 @@ jobs:
         if: matrix.os == 'macos-13'
         run: |
           xcrun simctl boot "iPhone 14"
-          xcodebuild test -scheme YourScheme -destination 'platform=iOS Simulator,name=iPhone 14,OS=${{ matrix.ios-version }}'
+          xcodebuild test -scheme TimeZoneIdentifier -destination 'platform=iOS Simulator,name=iPhone 14,OS=${{ matrix.ios-version }}'
 
       - name: Generate Code Coverage
         if: matrix.os == 'macos-13'
