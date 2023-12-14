@@ -1,5 +1,3 @@
-![TimeZoneIdentifier](image.png)
-
 # List of Time Zones Identifiers for Swift 🌍
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-brightgreen.svg)](https://swift.org)
