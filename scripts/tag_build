@@ -1,0 +1,38 @@
+#!/bin/bash
+
+increment_version() {
+    local IFS=.
+    local -a parts=($1)
+    if [ ${#parts[@]} -eq 2 ]; then
+        parts+=("0") # If only major.minor is provided, append .0
+    fi
+    parts[2]=$((${parts[2]} + 1))
+    echo "${parts[*]}"
+}
+
+NEW_VER_MAJ_MIN=$1
+git fetch --tags
+
+if [ -z "${NEW_VER_MAJ_MIN}" ]; then
+    LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))
+    NEW_VER=$(increment_version ${LATEST_TAG//v/})
+else
+    if git rev-parse "v$NEW_VER_MAJ_MIN.0" >/dev/null 2>&1; then
+        >&2 echo "Error: Tag v$NEW_VER_MAJ_MIN.0 already exists."
+        exit 1
+    fi
+    NEW_VER="$NEW_VER_MAJ_MIN.0"
+fi
+
+file="README.md"
+sed -E -i '' "s/from: \"[0-9]+\.[0-9]+\.[0-9]+\"/from: \"$NEW_VER\"/g" "$file"
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to update the version in $file."
+    exit 1
+fi
+echo "Version updated to $NEW_VER in $file."
+
+git add README.md
+git commit -m "Release version v$NEW_VER"
+git tag -a "$NEW_VER" -m "Version $NEW_VER"
+echo "Created new tag: $NEW_VER"

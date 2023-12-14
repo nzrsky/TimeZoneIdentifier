@@ -1,0 +1,28 @@
+name: Publish Release
+
+on:
+  push:
+    tags:
+      - "\\d+\\.\\d+\\.\\d+"
+
+jobs:
+  create_release:
+    name: Create Release
+    runs-on: macos-13
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create XCFramework
+        uses: philprime/swift-create-xcframework@main
+        with:
+          target: TimeZoneIdentifier
+
+      - name: Create GitHub Release
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: |
+            TimeZoneIdentifier.sha256
+            TimeZoneIdentifier.zip

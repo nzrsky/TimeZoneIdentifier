@@ -1,0 +1,56 @@
+name: Documentation
+
+on:
+  release:
+    types: [published]
+  push:
+    branches: [main]
+
+jobs:
+  deploy_docs:
+    runs-on: macos-13
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Swift
+        uses: swift-actions/setup-swift@v1
+        with:
+          swift-version: '5.8'
+          
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true
+
+      - name: Generate Documentation
+        run: |
+          sed  -i.bak "s/title:\(.*\)/title:\1 (${{ github.ref_name }})/g" .jazzy.yaml
+          bundle exec jazzy
+      - name: Upload build logs
+        if: failure() # This ensures logs are uploaded only if the previous step fails
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-logs
+          path: build.log
+
+      - name: Fix Invalid URLs
+        run: |
+          cd docs
+          touch .nojekyll
+
+      - name: Commit files
+        run: |
+          cd docs
+          git init
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Deploying updated Jazzy documentation"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
