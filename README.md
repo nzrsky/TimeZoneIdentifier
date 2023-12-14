@@ -4,14 +4,11 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-brightgreen.svg)](https://swift.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nzrsky/TimeZoneIdentifier/blob/main/LICENSE)
-
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-
 [![CI](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml/badge.svg)](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml?query=branch%3Amain+)
 [![codecov](https://codecov.io/gh/nzrsky/TimeZoneIdentifier/graph/badge.svg?token=kET1T95mW9)](https://codecov.io/gh/nzrsky/TimeZoneIdentifier)
 [![Documentation](https://raw.githubusercontent.com/nzrsky/TimeZoneIdentifier/gh-pages/badge.svg)](https://nzrsky.github.io/TimeZoneIdentifier)
-
 [![Supports macOS, Ubuntu & Windows](https://img.shields.io/badge/platform-macOS%20%7C%20Ubuntu%20%7C%20iOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-lightgray)]()
 [![Latest release](https://img.shields.io/github/v/release/nzrsky/TimeZoneIdentifier?sort=semver)]()
 
