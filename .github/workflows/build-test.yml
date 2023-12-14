@@ -68,7 +68,7 @@ jobs:
           xcodebuild test -scheme TimeZoneIdentifier -destination 'platform=iOS Simulator,name=iPhone 14,OS=${{ matrix.ios-version }}'
 
       - name: Generate Code Coverage
-        if: matrix.os == 'macos-13'
+        if: matrix.os == 'macos-13' && matrix.ios == '17.0'
         run: |
           mkdir -p coverage
           xcrun llvm-cov export \
@@ -79,7 +79,7 @@ jobs:
             --ignore-filename-regex "Tests" > ./coverage/coverage.lcov
 
       - name: Upload code coverage to Codecov
-        if: matrix.os == 'macos-13'
+        if: matrix.os == 'macos-13' && matrix.ios == '17.0'
         uses: codecov/codecov-action@v3
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
