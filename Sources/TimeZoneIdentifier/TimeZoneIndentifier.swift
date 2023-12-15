@@ -13,7 +13,7 @@ extension TimeZone: TimeZoneConvertible {
 }
 
 extension TimeZone {
-    init?(id: TimeZoneIdentifier) {
+    public init?(id: TimeZoneIdentifier) {
         self.init(identifier: id.rawValue)
     }
 }
@@ -480,8 +480,8 @@ public enum TimeZoneIdentifier: String, TimeZoneConvertible {
 
 // Missed in knownTimeZoneIdentifiers
 extension TimeZoneIdentifier {
-    var asiaSaigon: Self { .asiaHoChiMinh }
-    var asiaKolkata: Self { .asiaCalcutta }
+    public var asiaSaigon: Self { .asiaHoChiMinh }
+    public var asiaKolkata: Self { .asiaCalcutta }
 }
 
 // swiftlint:disable file_length
