@@ -1,0 +1,3155 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 7,
+      "symbol": "TimeZoneConvertible",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 8,
+      "symbol": "TimeZoneConvertible.timezone()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 12,
+      "symbol": "TimeZone.timezone()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 21,
+      "symbol": "TimeZoneIdentifier",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 22,
+      "symbol": "TimeZoneIdentifier.timezone()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 33,
+      "symbol": "TimeZoneIdentifier",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 34,
+      "symbol": "TimeZoneIdentifier.current",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 35,
+      "symbol": "TimeZoneIdentifier.autoUpdating",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 37,
+      "symbol": "TimeZoneIdentifier.africaAbidjan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 38,
+      "symbol": "TimeZoneIdentifier.africaAccra",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 39,
+      "symbol": "TimeZoneIdentifier.africaAddisAbaba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 40,
+      "symbol": "TimeZoneIdentifier.africaAlgiers",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 41,
+      "symbol": "TimeZoneIdentifier.africaAsmara",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 42,
+      "symbol": "TimeZoneIdentifier.africaBamako",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 43,
+      "symbol": "TimeZoneIdentifier.africaBangui",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 44,
+      "symbol": "TimeZoneIdentifier.africaBanjul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 45,
+      "symbol": "TimeZoneIdentifier.africaBissau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 46,
+      "symbol": "TimeZoneIdentifier.africaBlantyre",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 47,
+      "symbol": "TimeZoneIdentifier.africaBrazzaville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 48,
+      "symbol": "TimeZoneIdentifier.africaBujumbura",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 49,
+      "symbol": "TimeZoneIdentifier.africaCairo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 50,
+      "symbol": "TimeZoneIdentifier.africaCasablanca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 51,
+      "symbol": "TimeZoneIdentifier.africaCeuta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 52,
+      "symbol": "TimeZoneIdentifier.africaConakry",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 53,
+      "symbol": "TimeZoneIdentifier.africaDakar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 54,
+      "symbol": "TimeZoneIdentifier.africaDarEsSalaam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 55,
+      "symbol": "TimeZoneIdentifier.africaDjibouti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 56,
+      "symbol": "TimeZoneIdentifier.africaDouala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 57,
+      "symbol": "TimeZoneIdentifier.africaElAaiun",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 58,
+      "symbol": "TimeZoneIdentifier.africaFreetown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 59,
+      "symbol": "TimeZoneIdentifier.africaGaborone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 60,
+      "symbol": "TimeZoneIdentifier.africaHarare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 61,
+      "symbol": "TimeZoneIdentifier.africaJohannesburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 62,
+      "symbol": "TimeZoneIdentifier.africaJuba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 63,
+      "symbol": "TimeZoneIdentifier.africaKampala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 64,
+      "symbol": "TimeZoneIdentifier.africaKhartoum",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 65,
+      "symbol": "TimeZoneIdentifier.africaKigali",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 66,
+      "symbol": "TimeZoneIdentifier.africaKinshasa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 67,
+      "symbol": "TimeZoneIdentifier.africaLagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 68,
+      "symbol": "TimeZoneIdentifier.africaLibreville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 69,
+      "symbol": "TimeZoneIdentifier.africaLome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 70,
+      "symbol": "TimeZoneIdentifier.africaLuanda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 71,
+      "symbol": "TimeZoneIdentifier.africaLubumbashi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 72,
+      "symbol": "TimeZoneIdentifier.africaLusaka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 73,
+      "symbol": "TimeZoneIdentifier.africaMalabo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 74,
+      "symbol": "TimeZoneIdentifier.africaMaputo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 75,
+      "symbol": "TimeZoneIdentifier.africaMaseru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 76,
+      "symbol": "TimeZoneIdentifier.africaMbabane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 77,
+      "symbol": "TimeZoneIdentifier.africaMogadishu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 78,
+      "symbol": "TimeZoneIdentifier.africaMonrovia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 79,
+      "symbol": "TimeZoneIdentifier.africaNairobi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 80,
+      "symbol": "TimeZoneIdentifier.africaNdjamena",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 81,
+      "symbol": "TimeZoneIdentifier.africaNiamey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 82,
+      "symbol": "TimeZoneIdentifier.africaNouakchott",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 83,
+      "symbol": "TimeZoneIdentifier.africaOuagadougou",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 84,
+      "symbol": "TimeZoneIdentifier.africaPortoNovo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 85,
+      "symbol": "TimeZoneIdentifier.africaSaoTome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 86,
+      "symbol": "TimeZoneIdentifier.africaTripoli",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 87,
+      "symbol": "TimeZoneIdentifier.africaTunis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 88,
+      "symbol": "TimeZoneIdentifier.africaWindhoek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 89,
+      "symbol": "TimeZoneIdentifier.americaAdak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 90,
+      "symbol": "TimeZoneIdentifier.americaAnchorage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 91,
+      "symbol": "TimeZoneIdentifier.americaAnguilla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 92,
+      "symbol": "TimeZoneIdentifier.americaAntigua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 93,
+      "symbol": "TimeZoneIdentifier.americaAraguaina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 94,
+      "symbol": "TimeZoneIdentifier.americaArgentinaBuenosAires",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 95,
+      "symbol": "TimeZoneIdentifier.americaArgentinaCatamarca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 96,
+      "symbol": "TimeZoneIdentifier.americaArgentinaCordoba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 97,
+      "symbol": "TimeZoneIdentifier.americaArgentinaJujuy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 98,
+      "symbol": "TimeZoneIdentifier.americaArgentinaLaRioja",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 99,
+      "symbol": "TimeZoneIdentifier.americaArgentinaMendoza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 100,
+      "symbol": "TimeZoneIdentifier.americaArgentinaRioGallegos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 101,
+      "symbol": "TimeZoneIdentifier.americaArgentinaSalta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 102,
+      "symbol": "TimeZoneIdentifier.americaArgentinaSanJuan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 103,
+      "symbol": "TimeZoneIdentifier.americaArgentinaSanLuis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 104,
+      "symbol": "TimeZoneIdentifier.americaArgentinaTucuman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 105,
+      "symbol": "TimeZoneIdentifier.americaArgentinaUshuaia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 106,
+      "symbol": "TimeZoneIdentifier.americaAruba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 107,
+      "symbol": "TimeZoneIdentifier.americaAsuncion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 108,
+      "symbol": "TimeZoneIdentifier.americaAtikokan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 109,
+      "symbol": "TimeZoneIdentifier.americaBahia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 110,
+      "symbol": "TimeZoneIdentifier.americaBahiaBanderas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 111,
+      "symbol": "TimeZoneIdentifier.americaBarbados",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 112,
+      "symbol": "TimeZoneIdentifier.americaBelem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 113,
+      "symbol": "TimeZoneIdentifier.americaBelize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 114,
+      "symbol": "TimeZoneIdentifier.americaBlancSablon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 115,
+      "symbol": "TimeZoneIdentifier.americaBoaVista",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 116,
+      "symbol": "TimeZoneIdentifier.americaBogota",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 117,
+      "symbol": "TimeZoneIdentifier.americaBoise",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 118,
+      "symbol": "TimeZoneIdentifier.americaCambridgeBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 119,
+      "symbol": "TimeZoneIdentifier.americaCampoGrande",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 120,
+      "symbol": "TimeZoneIdentifier.americaCancun",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 121,
+      "symbol": "TimeZoneIdentifier.americaCaracas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 122,
+      "symbol": "TimeZoneIdentifier.americaCayenne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 123,
+      "symbol": "TimeZoneIdentifier.americaCayman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 124,
+      "symbol": "TimeZoneIdentifier.americaChicago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 125,
+      "symbol": "TimeZoneIdentifier.americaChihuahua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 126,
+      "symbol": "TimeZoneIdentifier.americaCiudadJuarez",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 127,
+      "symbol": "TimeZoneIdentifier.americaCostaRica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 128,
+      "symbol": "TimeZoneIdentifier.americaCreston",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 129,
+      "symbol": "TimeZoneIdentifier.americaCuiaba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 130,
+      "symbol": "TimeZoneIdentifier.americaCuracao",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 131,
+      "symbol": "TimeZoneIdentifier.americaDanmarkshavn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 132,
+      "symbol": "TimeZoneIdentifier.americaDawson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 133,
+      "symbol": "TimeZoneIdentifier.americaDawsonCreek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 134,
+      "symbol": "TimeZoneIdentifier.americaDenver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 135,
+      "symbol": "TimeZoneIdentifier.americaDetroit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 136,
+      "symbol": "TimeZoneIdentifier.americaDominica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 137,
+      "symbol": "TimeZoneIdentifier.americaEdmonton",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 138,
+      "symbol": "TimeZoneIdentifier.americaEirunepe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 139,
+      "symbol": "TimeZoneIdentifier.americaElSalvador",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 140,
+      "symbol": "TimeZoneIdentifier.americaFortNelson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 141,
+      "symbol": "TimeZoneIdentifier.americaFortaleza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 142,
+      "symbol": "TimeZoneIdentifier.americaGlaceBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 143,
+      "symbol": "TimeZoneIdentifier.americaGodthab",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 144,
+      "symbol": "TimeZoneIdentifier.americaGooseBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 145,
+      "symbol": "TimeZoneIdentifier.americaGrandTurk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 146,
+      "symbol": "TimeZoneIdentifier.americaGrenada",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 147,
+      "symbol": "TimeZoneIdentifier.americaGuadeloupe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 148,
+      "symbol": "TimeZoneIdentifier.americaGuatemala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 149,
+      "symbol": "TimeZoneIdentifier.americaGuayaquil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 150,
+      "symbol": "TimeZoneIdentifier.americaGuyana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 151,
+      "symbol": "TimeZoneIdentifier.americaHalifax",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 152,
+      "symbol": "TimeZoneIdentifier.americaHavana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 153,
+      "symbol": "TimeZoneIdentifier.americaHermosillo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 154,
+      "symbol": "TimeZoneIdentifier.americaIndianaIndianapolis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 155,
+      "symbol": "TimeZoneIdentifier.americaIndianaKnox",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 156,
+      "symbol": "TimeZoneIdentifier.americaIndianaMarengo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 157,
+      "symbol": "TimeZoneIdentifier.americaIndianaPetersburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 158,
+      "symbol": "TimeZoneIdentifier.americaIndianaTellCity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 159,
+      "symbol": "TimeZoneIdentifier.americaIndianaVevay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 160,
+      "symbol": "TimeZoneIdentifier.americaIndianaVincennes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 161,
+      "symbol": "TimeZoneIdentifier.americaIndianaWinamac",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 162,
+      "symbol": "TimeZoneIdentifier.americaInuvik",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 163,
+      "symbol": "TimeZoneIdentifier.americaIqaluit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 164,
+      "symbol": "TimeZoneIdentifier.americaJamaica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 165,
+      "symbol": "TimeZoneIdentifier.americaJuneau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 166,
+      "symbol": "TimeZoneIdentifier.americaKentuckyLouisville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 167,
+      "symbol": "TimeZoneIdentifier.americaKentuckyMonticello",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 168,
+      "symbol": "TimeZoneIdentifier.americaKralendijk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 169,
+      "symbol": "TimeZoneIdentifier.americaLaPaz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 170,
+      "symbol": "TimeZoneIdentifier.americaLima",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 171,
+      "symbol": "TimeZoneIdentifier.americaLosAngeles",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 172,
+      "symbol": "TimeZoneIdentifier.americaLowerPrinces",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 173,
+      "symbol": "TimeZoneIdentifier.americaMaceio",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 174,
+      "symbol": "TimeZoneIdentifier.americaManagua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 175,
+      "symbol": "TimeZoneIdentifier.americaManaus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 176,
+      "symbol": "TimeZoneIdentifier.americaMarigot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 177,
+      "symbol": "TimeZoneIdentifier.americaMartinique",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 178,
+      "symbol": "TimeZoneIdentifier.americaMatamoros",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 179,
+      "symbol": "TimeZoneIdentifier.americaMazatlan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 180,
+      "symbol": "TimeZoneIdentifier.americaMenominee",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 181,
+      "symbol": "TimeZoneIdentifier.americaMerida",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 182,
+      "symbol": "TimeZoneIdentifier.americaMetlakatla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 183,
+      "symbol": "TimeZoneIdentifier.americaMexicoCity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 184,
+      "symbol": "TimeZoneIdentifier.americaMiquelon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 185,
+      "symbol": "TimeZoneIdentifier.americaMoncton",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 186,
+      "symbol": "TimeZoneIdentifier.americaMonterrey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 187,
+      "symbol": "TimeZoneIdentifier.americaMontevideo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 188,
+      "symbol": "TimeZoneIdentifier.americaMontreal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 189,
+      "symbol": "TimeZoneIdentifier.americaMontserrat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 190,
+      "symbol": "TimeZoneIdentifier.americaNassau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 191,
+      "symbol": "TimeZoneIdentifier.americaNewYork",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 192,
+      "symbol": "TimeZoneIdentifier.americaNipigon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 193,
+      "symbol": "TimeZoneIdentifier.americaNome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 194,
+      "symbol": "TimeZoneIdentifier.americaNoronha",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 195,
+      "symbol": "TimeZoneIdentifier.americaNorthDakotaBeulah",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 196,
+      "symbol": "TimeZoneIdentifier.americaNorthDakotaCenter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 197,
+      "symbol": "TimeZoneIdentifier.americaNorthDakotaNewSalem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 198,
+      "symbol": "TimeZoneIdentifier.americaNuuk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 199,
+      "symbol": "TimeZoneIdentifier.americaOjinaga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 200,
+      "symbol": "TimeZoneIdentifier.americaPanama",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 201,
+      "symbol": "TimeZoneIdentifier.americaPangnirtung",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 202,
+      "symbol": "TimeZoneIdentifier.americaParamaribo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 203,
+      "symbol": "TimeZoneIdentifier.americaPhoenix",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 204,
+      "symbol": "TimeZoneIdentifier.americaPortAuPrince",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 205,
+      "symbol": "TimeZoneIdentifier.americaPortOfSpain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 206,
+      "symbol": "TimeZoneIdentifier.americaPortoVelho",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 207,
+      "symbol": "TimeZoneIdentifier.americaPuertoRico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 208,
+      "symbol": "TimeZoneIdentifier.americaPuntaArenas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 209,
+      "symbol": "TimeZoneIdentifier.americaRainyRiver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 210,
+      "symbol": "TimeZoneIdentifier.americaRankinInlet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 211,
+      "symbol": "TimeZoneIdentifier.americaRecife",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 212,
+      "symbol": "TimeZoneIdentifier.americaRegina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 213,
+      "symbol": "TimeZoneIdentifier.americaResolute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 214,
+      "symbol": "TimeZoneIdentifier.americaRioBranco",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 215,
+      "symbol": "TimeZoneIdentifier.americaSantaIsabel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 216,
+      "symbol": "TimeZoneIdentifier.americaSantarem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 217,
+      "symbol": "TimeZoneIdentifier.americaSantiago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 218,
+      "symbol": "TimeZoneIdentifier.americaSantoDomingo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 219,
+      "symbol": "TimeZoneIdentifier.americaSaoPaulo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 220,
+      "symbol": "TimeZoneIdentifier.americaScoresbysund",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 221,
+      "symbol": "TimeZoneIdentifier.americaShiprock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 222,
+      "symbol": "TimeZoneIdentifier.americaSitka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 223,
+      "symbol": "TimeZoneIdentifier.americaStBarthelemy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 224,
+      "symbol": "TimeZoneIdentifier.americaStJohns",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 225,
+      "symbol": "TimeZoneIdentifier.americaStKitts",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 226,
+      "symbol": "TimeZoneIdentifier.americaStLucia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 227,
+      "symbol": "TimeZoneIdentifier.americaStThomas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 228,
+      "symbol": "TimeZoneIdentifier.americaStVincent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 229,
+      "symbol": "TimeZoneIdentifier.americaSwiftCurrent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 230,
+      "symbol": "TimeZoneIdentifier.americaTegucigalpa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 231,
+      "symbol": "TimeZoneIdentifier.americaThule",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 232,
+      "symbol": "TimeZoneIdentifier.americaThunderBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 233,
+      "symbol": "TimeZoneIdentifier.americaTijuana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 234,
+      "symbol": "TimeZoneIdentifier.americaToronto",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 235,
+      "symbol": "TimeZoneIdentifier.americaTortola",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 236,
+      "symbol": "TimeZoneIdentifier.americaVancouver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 237,
+      "symbol": "TimeZoneIdentifier.americaWhitehorse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 238,
+      "symbol": "TimeZoneIdentifier.americaWinnipeg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 239,
+      "symbol": "TimeZoneIdentifier.americaYakutat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 240,
+      "symbol": "TimeZoneIdentifier.americaYellowknife",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 241,
+      "symbol": "TimeZoneIdentifier.antarcticaCasey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 242,
+      "symbol": "TimeZoneIdentifier.antarcticaDavis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 243,
+      "symbol": "TimeZoneIdentifier.antarcticaDumontDUrville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 244,
+      "symbol": "TimeZoneIdentifier.antarcticaMacquarie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 245,
+      "symbol": "TimeZoneIdentifier.antarcticaMawson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 246,
+      "symbol": "TimeZoneIdentifier.antarcticaMcMurdo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 247,
+      "symbol": "TimeZoneIdentifier.antarcticaPalmer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 248,
+      "symbol": "TimeZoneIdentifier.antarcticaRothera",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 249,
+      "symbol": "TimeZoneIdentifier.antarcticaSouthPole",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 250,
+      "symbol": "TimeZoneIdentifier.antarcticaSyowa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 251,
+      "symbol": "TimeZoneIdentifier.antarcticaTroll",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 252,
+      "symbol": "TimeZoneIdentifier.antarcticaVostok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 253,
+      "symbol": "TimeZoneIdentifier.arcticLongyearbyen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 254,
+      "symbol": "TimeZoneIdentifier.asiaAden",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 255,
+      "symbol": "TimeZoneIdentifier.asiaAlmaty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 256,
+      "symbol": "TimeZoneIdentifier.asiaAmman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 257,
+      "symbol": "TimeZoneIdentifier.asiaAnadyr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 258,
+      "symbol": "TimeZoneIdentifier.asiaAqtau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 259,
+      "symbol": "TimeZoneIdentifier.asiaAqtobe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 260,
+      "symbol": "TimeZoneIdentifier.asiaAshgabat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 261,
+      "symbol": "TimeZoneIdentifier.asiaAtyrau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 262,
+      "symbol": "TimeZoneIdentifier.asiaBaghdad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 263,
+      "symbol": "TimeZoneIdentifier.asiaBahrain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 264,
+      "symbol": "TimeZoneIdentifier.asiaBaku",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 265,
+      "symbol": "TimeZoneIdentifier.asiaBangkok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 266,
+      "symbol": "TimeZoneIdentifier.asiaBarnaul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 267,
+      "symbol": "TimeZoneIdentifier.asiaBeirut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 268,
+      "symbol": "TimeZoneIdentifier.asiaBishkek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 269,
+      "symbol": "TimeZoneIdentifier.asiaBrunei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 270,
+      "symbol": "TimeZoneIdentifier.asiaCalcutta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 271,
+      "symbol": "TimeZoneIdentifier.asiaChita",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 272,
+      "symbol": "TimeZoneIdentifier.asiaChoibalsan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 273,
+      "symbol": "TimeZoneIdentifier.asiaChongqing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 274,
+      "symbol": "TimeZoneIdentifier.asiaColombo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 275,
+      "symbol": "TimeZoneIdentifier.asiaDamascus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 276,
+      "symbol": "TimeZoneIdentifier.asiaDhaka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 277,
+      "symbol": "TimeZoneIdentifier.asiaDili",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 278,
+      "symbol": "TimeZoneIdentifier.asiaDubai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 279,
+      "symbol": "TimeZoneIdentifier.asiaDushanbe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 280,
+      "symbol": "TimeZoneIdentifier.asiaFamagusta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 281,
+      "symbol": "TimeZoneIdentifier.asiaGaza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 282,
+      "symbol": "TimeZoneIdentifier.asiaHarbin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 283,
+      "symbol": "TimeZoneIdentifier.asiaHebron",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 284,
+      "symbol": "TimeZoneIdentifier.asiaHoChiMinh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 285,
+      "symbol": "TimeZoneIdentifier.asiaHongKong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 286,
+      "symbol": "TimeZoneIdentifier.asiaHovd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 287,
+      "symbol": "TimeZoneIdentifier.asiaIrkutsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 288,
+      "symbol": "TimeZoneIdentifier.asiaJakarta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 289,
+      "symbol": "TimeZoneIdentifier.asiaJayapura",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 290,
+      "symbol": "TimeZoneIdentifier.asiaJerusalem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 291,
+      "symbol": "TimeZoneIdentifier.asiaKabul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 292,
+      "symbol": "TimeZoneIdentifier.asiaKamchatka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 293,
+      "symbol": "TimeZoneIdentifier.asiaKarachi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 294,
+      "symbol": "TimeZoneIdentifier.asiaKashgar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 295,
+      "symbol": "TimeZoneIdentifier.asiaKathmandu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 296,
+      "symbol": "TimeZoneIdentifier.asiaKatmandu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 297,
+      "symbol": "TimeZoneIdentifier.asiaKhandyga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 298,
+      "symbol": "TimeZoneIdentifier.asiaKrasnoyarsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 299,
+      "symbol": "TimeZoneIdentifier.asiaKualaLumpur",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 300,
+      "symbol": "TimeZoneIdentifier.asiaKuching",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 301,
+      "symbol": "TimeZoneIdentifier.asiaKuwait",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 302,
+      "symbol": "TimeZoneIdentifier.asiaMacau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 303,
+      "symbol": "TimeZoneIdentifier.asiaMagadan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 304,
+      "symbol": "TimeZoneIdentifier.asiaMakassar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 305,
+      "symbol": "TimeZoneIdentifier.asiaManila",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 306,
+      "symbol": "TimeZoneIdentifier.asiaMuscat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 307,
+      "symbol": "TimeZoneIdentifier.asiaNicosia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 308,
+      "symbol": "TimeZoneIdentifier.asiaNovokuznetsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 309,
+      "symbol": "TimeZoneIdentifier.asiaNovosibirsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 310,
+      "symbol": "TimeZoneIdentifier.asiaOmsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 311,
+      "symbol": "TimeZoneIdentifier.asiaOral",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 312,
+      "symbol": "TimeZoneIdentifier.asiaPhnomPenh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 313,
+      "symbol": "TimeZoneIdentifier.asiaPontianak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 314,
+      "symbol": "TimeZoneIdentifier.asiaPyongyang",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 315,
+      "symbol": "TimeZoneIdentifier.asiaQatar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 316,
+      "symbol": "TimeZoneIdentifier.asiaQostanay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 317,
+      "symbol": "TimeZoneIdentifier.asiaQyzylorda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 318,
+      "symbol": "TimeZoneIdentifier.asiaRangoon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 319,
+      "symbol": "TimeZoneIdentifier.asiaRiyadh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 320,
+      "symbol": "TimeZoneIdentifier.asiaSakhalin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 321,
+      "symbol": "TimeZoneIdentifier.asiaSamarkand",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 322,
+      "symbol": "TimeZoneIdentifier.asiaSeoul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 323,
+      "symbol": "TimeZoneIdentifier.asiaShanghai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 324,
+      "symbol": "TimeZoneIdentifier.asiaSingapore",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 325,
+      "symbol": "TimeZoneIdentifier.asiaSrednekolymsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 326,
+      "symbol": "TimeZoneIdentifier.asiaTaipei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 327,
+      "symbol": "TimeZoneIdentifier.asiaTashkent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 328,
+      "symbol": "TimeZoneIdentifier.asiaTbilisi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 329,
+      "symbol": "TimeZoneIdentifier.asiaTehran",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 330,
+      "symbol": "TimeZoneIdentifier.asiaThimphu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 331,
+      "symbol": "TimeZoneIdentifier.asiaTokyo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 332,
+      "symbol": "TimeZoneIdentifier.asiaTomsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 333,
+      "symbol": "TimeZoneIdentifier.asiaUlaanbaatar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 334,
+      "symbol": "TimeZoneIdentifier.asiaUrumqi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 335,
+      "symbol": "TimeZoneIdentifier.asiaUstNera",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 336,
+      "symbol": "TimeZoneIdentifier.asiaVientiane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 337,
+      "symbol": "TimeZoneIdentifier.asiaVladivostok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 338,
+      "symbol": "TimeZoneIdentifier.asiaYakutsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 339,
+      "symbol": "TimeZoneIdentifier.asiaYangon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 340,
+      "symbol": "TimeZoneIdentifier.asiaYekaterinburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 341,
+      "symbol": "TimeZoneIdentifier.asiaYerevan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 342,
+      "symbol": "TimeZoneIdentifier.atlanticAzores",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 343,
+      "symbol": "TimeZoneIdentifier.atlanticBermuda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 344,
+      "symbol": "TimeZoneIdentifier.atlanticCanary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 345,
+      "symbol": "TimeZoneIdentifier.atlanticCapeVerde",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 346,
+      "symbol": "TimeZoneIdentifier.atlanticFaroe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 347,
+      "symbol": "TimeZoneIdentifier.atlanticMadeira",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 348,
+      "symbol": "TimeZoneIdentifier.atlanticReykjavik",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 349,
+      "symbol": "TimeZoneIdentifier.atlanticSouthGeorgia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 350,
+      "symbol": "TimeZoneIdentifier.atlanticStHelena",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 351,
+      "symbol": "TimeZoneIdentifier.atlanticStanley",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 352,
+      "symbol": "TimeZoneIdentifier.australiaAdelaide",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 353,
+      "symbol": "TimeZoneIdentifier.australiaBrisbane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 354,
+      "symbol": "TimeZoneIdentifier.australiaBrokenHill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 355,
+      "symbol": "TimeZoneIdentifier.australiaCurrie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 356,
+      "symbol": "TimeZoneIdentifier.australiaDarwin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 357,
+      "symbol": "TimeZoneIdentifier.australiaEucla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 358,
+      "symbol": "TimeZoneIdentifier.australiaHobart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 359,
+      "symbol": "TimeZoneIdentifier.australiaLindeman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 360,
+      "symbol": "TimeZoneIdentifier.australiaLordHowe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 361,
+      "symbol": "TimeZoneIdentifier.australiaMelbourne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 362,
+      "symbol": "TimeZoneIdentifier.australiaPerth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 363,
+      "symbol": "TimeZoneIdentifier.australiaSydney",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 364,
+      "symbol": "TimeZoneIdentifier.europeAmsterdam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 365,
+      "symbol": "TimeZoneIdentifier.europeAndorra",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 366,
+      "symbol": "TimeZoneIdentifier.europeAstrakhan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 367,
+      "symbol": "TimeZoneIdentifier.europeAthens",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 368,
+      "symbol": "TimeZoneIdentifier.europeBelgrade",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 369,
+      "symbol": "TimeZoneIdentifier.europeBerlin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 370,
+      "symbol": "TimeZoneIdentifier.europeBratislava",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 371,
+      "symbol": "TimeZoneIdentifier.europeBrussels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 372,
+      "symbol": "TimeZoneIdentifier.europeBucharest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 373,
+      "symbol": "TimeZoneIdentifier.europeBudapest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 374,
+      "symbol": "TimeZoneIdentifier.europeBusingen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 375,
+      "symbol": "TimeZoneIdentifier.europeChisinau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 376,
+      "symbol": "TimeZoneIdentifier.europeCopenhagen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 377,
+      "symbol": "TimeZoneIdentifier.europeDublin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 378,
+      "symbol": "TimeZoneIdentifier.europeGibraltar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 379,
+      "symbol": "TimeZoneIdentifier.europeGuernsey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 380,
+      "symbol": "TimeZoneIdentifier.europeHelsinki",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 381,
+      "symbol": "TimeZoneIdentifier.europeIsleOfMan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 382,
+      "symbol": "TimeZoneIdentifier.europeIstanbul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 383,
+      "symbol": "TimeZoneIdentifier.europeJersey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 384,
+      "symbol": "TimeZoneIdentifier.europeKaliningrad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 385,
+      "symbol": "TimeZoneIdentifier.europeKiev",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 386,
+      "symbol": "TimeZoneIdentifier.europeKirov",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 387,
+      "symbol": "TimeZoneIdentifier.europeKyiv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 388,
+      "symbol": "TimeZoneIdentifier.europeLisbon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 389,
+      "symbol": "TimeZoneIdentifier.europeLjubljana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 390,
+      "symbol": "TimeZoneIdentifier.europeLondon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 391,
+      "symbol": "TimeZoneIdentifier.europeLuxembourg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 392,
+      "symbol": "TimeZoneIdentifier.europeMadrid",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 393,
+      "symbol": "TimeZoneIdentifier.europeMalta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 394,
+      "symbol": "TimeZoneIdentifier.europeMariehamn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 395,
+      "symbol": "TimeZoneIdentifier.europeMinsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 396,
+      "symbol": "TimeZoneIdentifier.europeMonaco",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 397,
+      "symbol": "TimeZoneIdentifier.europeMoscow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 398,
+      "symbol": "TimeZoneIdentifier.europeOslo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 399,
+      "symbol": "TimeZoneIdentifier.europeParis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 400,
+      "symbol": "TimeZoneIdentifier.europePodgorica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 401,
+      "symbol": "TimeZoneIdentifier.europePrague",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 402,
+      "symbol": "TimeZoneIdentifier.europeRiga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 403,
+      "symbol": "TimeZoneIdentifier.europeRome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 404,
+      "symbol": "TimeZoneIdentifier.europeSamara",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 405,
+      "symbol": "TimeZoneIdentifier.europeSanMarino",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 406,
+      "symbol": "TimeZoneIdentifier.europeSarajevo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 407,
+      "symbol": "TimeZoneIdentifier.europeSaratov",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 408,
+      "symbol": "TimeZoneIdentifier.europeSimferopol",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 409,
+      "symbol": "TimeZoneIdentifier.europeSkopje",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 410,
+      "symbol": "TimeZoneIdentifier.europeSofia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 411,
+      "symbol": "TimeZoneIdentifier.europeStockholm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 412,
+      "symbol": "TimeZoneIdentifier.europeTallinn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 413,
+      "symbol": "TimeZoneIdentifier.europeTirane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 414,
+      "symbol": "TimeZoneIdentifier.europeUlyanovsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 415,
+      "symbol": "TimeZoneIdentifier.europeUzhgorod",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 416,
+      "symbol": "TimeZoneIdentifier.europeVaduz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 417,
+      "symbol": "TimeZoneIdentifier.europeVatican",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 418,
+      "symbol": "TimeZoneIdentifier.europeVienna",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 419,
+      "symbol": "TimeZoneIdentifier.europeVilnius",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 420,
+      "symbol": "TimeZoneIdentifier.europeVolgograd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 421,
+      "symbol": "TimeZoneIdentifier.europeWarsaw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 422,
+      "symbol": "TimeZoneIdentifier.europeZagreb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 423,
+      "symbol": "TimeZoneIdentifier.europeZaporozhye",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 424,
+      "symbol": "TimeZoneIdentifier.europeZurich",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 425,
+      "symbol": "TimeZoneIdentifier.gmt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 426,
+      "symbol": "TimeZoneIdentifier.indianAntananarivo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 427,
+      "symbol": "TimeZoneIdentifier.indianChagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 428,
+      "symbol": "TimeZoneIdentifier.indianChristmas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 429,
+      "symbol": "TimeZoneIdentifier.indianCocos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 430,
+      "symbol": "TimeZoneIdentifier.indianComoro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 431,
+      "symbol": "TimeZoneIdentifier.indianKerguelen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 432,
+      "symbol": "TimeZoneIdentifier.indianMahe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 433,
+      "symbol": "TimeZoneIdentifier.indianMaldives",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 434,
+      "symbol": "TimeZoneIdentifier.indianMauritius",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 435,
+      "symbol": "TimeZoneIdentifier.indianMayotte",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 436,
+      "symbol": "TimeZoneIdentifier.indianReunion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 437,
+      "symbol": "TimeZoneIdentifier.pacificApia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 438,
+      "symbol": "TimeZoneIdentifier.pacificAuckland",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 439,
+      "symbol": "TimeZoneIdentifier.pacificBougainville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 440,
+      "symbol": "TimeZoneIdentifier.pacificChatham",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 441,
+      "symbol": "TimeZoneIdentifier.pacificChuuk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 442,
+      "symbol": "TimeZoneIdentifier.pacificEaster",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 443,
+      "symbol": "TimeZoneIdentifier.pacificEfate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 444,
+      "symbol": "TimeZoneIdentifier.pacificEnderbury",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 445,
+      "symbol": "TimeZoneIdentifier.pacificFakaofo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 446,
+      "symbol": "TimeZoneIdentifier.pacificFiji",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 447,
+      "symbol": "TimeZoneIdentifier.pacificFunafuti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 448,
+      "symbol": "TimeZoneIdentifier.pacificGalapagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 449,
+      "symbol": "TimeZoneIdentifier.pacificGambier",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 450,
+      "symbol": "TimeZoneIdentifier.pacificGuadalcanal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 451,
+      "symbol": "TimeZoneIdentifier.pacificGuam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 452,
+      "symbol": "TimeZoneIdentifier.pacificHonolulu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 453,
+      "symbol": "TimeZoneIdentifier.pacificJohnston",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 454,
+      "symbol": "TimeZoneIdentifier.pacificKanton",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 455,
+      "symbol": "TimeZoneIdentifier.pacificKiritimati",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 456,
+      "symbol": "TimeZoneIdentifier.pacificKosrae",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 457,
+      "symbol": "TimeZoneIdentifier.pacificKwajalein",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 458,
+      "symbol": "TimeZoneIdentifier.pacificMajuro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 459,
+      "symbol": "TimeZoneIdentifier.pacificMarquesas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 460,
+      "symbol": "TimeZoneIdentifier.pacificMidway",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 461,
+      "symbol": "TimeZoneIdentifier.pacificNauru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 462,
+      "symbol": "TimeZoneIdentifier.pacificNiue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 463,
+      "symbol": "TimeZoneIdentifier.pacificNorfolk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 464,
+      "symbol": "TimeZoneIdentifier.pacificNoumea",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 465,
+      "symbol": "TimeZoneIdentifier.pacificPagoPago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 466,
+      "symbol": "TimeZoneIdentifier.pacificPalau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 467,
+      "symbol": "TimeZoneIdentifier.pacificPitcairn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 468,
+      "symbol": "TimeZoneIdentifier.pacificPohnpei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 469,
+      "symbol": "TimeZoneIdentifier.pacificPonape",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 470,
+      "symbol": "TimeZoneIdentifier.pacificPortMoresby",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 471,
+      "symbol": "TimeZoneIdentifier.pacificRarotonga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 472,
+      "symbol": "TimeZoneIdentifier.pacificSaipan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 473,
+      "symbol": "TimeZoneIdentifier.pacificTahiti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 474,
+      "symbol": "TimeZoneIdentifier.pacificTarawa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 475,
+      "symbol": "TimeZoneIdentifier.pacificTongatapu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 476,
+      "symbol": "TimeZoneIdentifier.pacificTruk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 477,
+      "symbol": "TimeZoneIdentifier.pacificWake",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nazaroff/Documents/TimeZoneIdentifier/Sources/TimeZoneIdentifier/TimeZoneIndentifier.swift",
+      "line": 478,
+      "symbol": "TimeZoneIdentifier.pacificWallis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/nazaroff/Documents/TimeZoneIdentifier"
+}

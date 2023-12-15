@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TimeZoneIdentifier  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset="utf-8">
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+    <script src="js/lunr.min.js" defer></script>
+    <script src="js/typeahead.jquery.js" defer></script>
+    <script src="js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+
+
+    <a title="TimeZoneIdentifier  Reference"></a>
+
+    <header class="header">
+      <p class="header-col header-col--primary">
+        <a class="header-link" href="index.html">
+          TimeZoneIdentifier
+        </a>
+         (0% documented)
+      </p>
+    
+      <div class="header-col--secondary">
+        <form role="search" action="search.json">
+          <input type="text" placeholder="Search documentation" data-typeahead>
+        </form>
+      </div>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="https://github.com/nzrsky/TimeZoneIdentifier">
+            <img class="header-icon" src="img/gh.png" alt="GitHub"/>
+            View on GitHub
+          </a>
+        </p>
+    
+    </header>
+
+    <p class="breadcrumbs">
+      <a class="breadcrumb" href="index.html">TimeZoneIdentifier Reference</a>
+      <img class="carat" src="img/carat.png" alt=""/>
+      TimeZoneIdentifier  Reference
+    </p>
+
+    <div class="content-wrapper">
+      <nav class="navigation">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Enums/TimeZoneIdentifier.html">TimeZoneIdentifier</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/TimeZone.html">TimeZone</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/TimeZoneConvertible.html">TimeZoneConvertible</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+
+        <section class="section">
+          <div class="section-content top-matter">
+            
+            <h1 id='list-of-time-zones-identifiers-for-swift' class='heading'>List of Time Zones Identifiers for Swift 🌍</h1>
+
+<p><a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-5.9-brightgreen.svg" alt="Swift"></a>
+<a href="https://github.com/nzrsky/TimeZoneIdentifier/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+<a href="https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg"><img src="https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg" alt="CocoaPods Compatible"></a>
+<a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" alt="Carthage Compatible"></a>
+<a href="https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml?query=branch%3Amain+"><img src="https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml/badge.svg" alt="CI"></a>
+<a href="https://codecov.io/gh/nzrsky/TimeZoneIdentifier"><img src="https://codecov.io/gh/nzrsky/TimeZoneIdentifier/graph/badge.svg?token=kET1T95mW9" alt="codecov"></a>
+<a href="https://nzrsky.github.io/TimeZoneIdentifier"><img src="https://raw.githubusercontent.com/nzrsky/TimeZoneIdentifier/gh-pages/badge.svg" alt="Documentation"></a>
+<a href=""><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Ubuntu%20%7C%20iOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-lightgray" alt="Supports macOS, Ubuntu &amp; Windows"></a>
+<a href=""><img src="https://img.shields.io/github/v/release/nzrsky/TimeZoneIdentifier?sort=semver" alt="Latest release"></a></p>
+
+<div align="center">
+  <img src="image.png" alt="" style="display: inline-block;" width="50%">
+</div>
+<h2 id='overview' class='heading'>Overview</h2>
+
+<p>This Swift library provides a convenient way to handle time zones through the <code><a href="Protocols/TimeZoneConvertible.html">TimeZoneConvertible</a></code> protocol and the <code><a href="Enums/TimeZoneIdentifier.html">TimeZoneIdentifier</a></code> enum. Whether you need the current system time zone, an auto-updating time zone, or specific global time zones, this library has got you covered.</p>
+<h2 id='features' class='heading'>Features</h2>
+
+<ul>
+<li>Type-safe time zone identifiers.</li>
+<li>Extendable <code><a href="Protocols/TimeZoneConvertible.html">TimeZoneConvertible</a></code> protocol.</li>
+<li>Easy-to-use, Swifty API.</li>
+</ul>
+<h2 id='automatic-updates' class='heading'>Automatic Updates 🔄</h2>
+
+<p>This library is set up with GitHub Actions to automatically update the list of time zone identifiers every day. The updates are compatible across all iOS versions.</p>
+
+<p>The workflow ensures that the list stays current, and any changes are committed directly to the repository. Only the differences (diff) are committed, ensuring that the change history remains clean and easy to follow.</p>
+<h2 id='installation' class='heading'>Installation</h2>
+<h3 id='swift-package-manager' class='heading'>Swift Package Manager</h3>
+
+<p>Add the package dependency to your <code>Package.swift</code> file:</p>
+<pre class="highlight swift"><code><span class="nv">dependencies</span><span class="p">:</span> <span class="p">[</span>
+    <span class="o">.</span><span class="nf">package</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="s">"https://github.com/nzrsky/TimeZoneIdentifier.git"</span><span class="p">,</span> <span class="nv">from</span><span class="p">:</span> <span class="s">"1.0.0"</span><span class="p">)</span>
+<span class="p">]</span>
+</code></pre>
+
+<p>Then run:</p>
+<pre class="highlight shell"><code>swift build
+</code></pre>
+<h2 id='usage' class='heading'>Usage</h2>
+
+<p>First, import the module:</p>
+<pre class="highlight swift"><code><span class="kd">import</span> <span class="kt">TimeZoneIdentifiers</span>
+</code></pre>
+<h3 id='using-timezoneconvertible' class='heading'>Using TimeZoneConvertible</h3>
+
+<p>You can use the TimeZoneConvertible protocol to seamlessly convert between types:</p>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">timeZone</span><span class="p">:</span> <span class="kt">TimeZone</span> <span class="o">=</span> <span class="kt">TimeZoneIdentifier</span><span class="o">.</span><span class="n">current</span><span class="o">.</span><span class="nf">timezone</span><span class="p">()</span>
+</code></pre>
+<h3 id='using-timezoneidentifier-enum' class='heading'>Using TimeZoneIdentifier Enum</h3>
+
+<p>The TimeZoneIdentifier enum allows you to easily access different time zones:</p>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">currentZone</span> <span class="o">=</span> <span class="kt">TimeZoneIdentifier</span><span class="o">.</span><span class="n">current</span><span class="o">.</span><span class="nf">timezone</span><span class="p">()</span>
+<span class="k">let</span> <span class="nv">autoUpdatingZone</span> <span class="o">=</span> <span class="kt">TimeZoneIdentifier</span><span class="o">.</span><span class="n">autoUpdating</span><span class="o">.</span><span class="nf">timezone</span><span class="p">()</span>
+<span class="k">let</span> <span class="nv">specificZone</span> <span class="o">=</span> <span class="kt">TimeZoneIdentifier</span><span class="o">.</span><span class="n">africaAbidjan</span><span class="o">.</span><span class="nf">timezone</span><span class="p">()</span>
+</code></pre>
+<h2 id='contributing' class='heading'>Contributing</h2>
+
+<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
+<h2 id='license' class='heading'>License</h2>
+
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+
+<p>Made in 🇱🇻 by Alex Nazarov</p>
+
+          </div>
+        </section>
+
+
+      </article>
+    </div>
+    <section class="footer">
+      <p>© 2023 Alex Nazarov. All rights reserved.</p>
+      <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.4</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
+    </section>
+  </body>
+</html>
