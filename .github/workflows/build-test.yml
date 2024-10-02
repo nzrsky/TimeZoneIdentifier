@@ -46,7 +46,7 @@ jobs:
             ${{ runner.os }}-
         
       - name: Gen Linux tests
-        run: ./scripts/gen_linux_tests
+        run: sh ./scripts/gen_linux_tests
 
       - name: Resolve Swift Dependencies
         run: swift package resolve
