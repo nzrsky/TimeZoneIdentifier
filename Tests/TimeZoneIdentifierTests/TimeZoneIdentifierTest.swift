@@ -1,5 +1,5 @@
 //
-//  Copyright © 2023 Alexey Nazarov. Licensed under MIT License.
+//  Copyright © 2024 Alex Nazarov. Licensed under MIT License.
 //
 
 import TimeZoneIdentifier
