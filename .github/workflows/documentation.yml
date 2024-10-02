@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy_docs:
-    runs-on: macos-13
+    runs-on: macos-14
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,18 +16,22 @@ jobs:
       - name: Set up Swift
         uses: swift-actions/setup-swift@v1
         with:
-          swift-version: '5.8'
+          swift-version: '5.9'
           
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
+      
+      - name: Ruby version
+        run: |
+          ruby --version
 
       - name: Generate Documentation
         run: |
           sed  -i.bak "s/title:\(.*\)/title:\1 (${{ github.ref_name }})/g" .jazzy.yaml
           bundle exec jazzy
+
       - name: Upload build logs
         if: failure() # This ensures logs are uploaded only if the previous step fails
         uses: actions/upload-artifact@v2
