@@ -1,14 +1,13 @@
 # List of Time Zones Identifiers for Swift 🌍
 
-[![Swift](https://img.shields.io/badge/Swift-5.9-brightgreen.svg)](https://swift.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nzrsky/TimeZoneIdentifier/blob/main/LICENSE)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)](https://img.shields.io/cocoapods/v/TimeZoneIdentifier.svg)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CI](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml/badge.svg)](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml?query=branch%3Amain+)
+[![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-orange.svg)](https://docs.revenuecat.com/docs/ios#section-install-via-swift-package-manager)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fnzrsky%2FTimeZoneIdentifier%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/nzrsky/TimeZoneIdentifier)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fnzrsky%2FTimeZoneIdentifier%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/nzrsky/TimeZoneIdentifier)
 [![codecov](https://codecov.io/gh/nzrsky/TimeZoneIdentifier/graph/badge.svg?token=kET1T95mW9)](https://codecov.io/gh/nzrsky/TimeZoneIdentifier)
-[![Documentation](https://raw.githubusercontent.com/nzrsky/TimeZoneIdentifier/gh-pages/badge.svg)](https://nzrsky.github.io/TimeZoneIdentifier)
-[![Supports macOS, Ubuntu & Windows](https://img.shields.io/badge/platform-macOS%20%7C%20Ubuntu%20%7C%20iOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-lightgray)]()
-[![Latest release](https://img.shields.io/github/v/release/nzrsky/TimeZoneIdentifier?sort=semver)]()
+[![CI](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml/badge.svg)](https://github.com/nzrsky/TimeZoneIdentifier/actions/workflows/build-test.yml?query=branch%3Amain+)
 
 
 <div align="center">
