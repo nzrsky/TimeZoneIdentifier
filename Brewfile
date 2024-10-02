@@ -1,1 +1,1 @@
-brew("sourcery")
+brew 'sourcery'
