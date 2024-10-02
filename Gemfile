@@ -6,4 +6,4 @@ gem "cocoapods"
 gem 'activesupport'
 gem 'cocoapods-trunk'
 gem 'danger'
-gem 'fastlane'
+# gem 'fastlane'
