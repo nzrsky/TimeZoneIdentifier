@@ -26,9 +26,12 @@ jobs:
           fetch-depth: 2
 
       - name: Setup Swift ${{ matrix.swift }}
-        uses: swift-actions/setup-swift@v1
+        uses: SwiftyLab/setup-swift@latest
         with:
           swift-version: ${{ matrix.swift }}
+
+      - name: Get swift version
+        run: swift --version
 
       - name: Cache Swift Packages
         uses: actions/cache@v3
@@ -75,6 +78,7 @@ jobs:
           flags: unittests
           fail_ci_if_error: true
 
+
   build-test-macos:
     name: Build & Test on ${{ matrix.os }} with Swift ${{ matrix.swift }}
     runs-on: ${{ matrix.os }}
@@ -92,11 +96,11 @@ jobs:
           fetch-depth: 2
 
       - name: Setup Swift ${{ matrix.swift }}
-        uses: swift-actions/setup-swift@v1
+        uses: SwiftyLab/setup-swift@latest
         with:
           swift-version: ${{ matrix.swift }}
 
-      - name: Print Swift Version
+      - name: Get Swift Version
         run: swift --version
 
       - name: Cache Swift Packages
@@ -206,6 +210,7 @@ jobs:
           name: codecov-macos-${{ matrix.os }}-swift-${{ matrix.swift }}
           flags: unittests
           fail_ci_if_error: true
+
 
   podspec-validation:
     name: Validate Podspec
