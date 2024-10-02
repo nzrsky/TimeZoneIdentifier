@@ -34,7 +34,7 @@ jobs:
 
       - name: Upload build logs
         if: failure() # This ensures logs are uploaded only if the previous step fails
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: build-logs
           path: build.log
