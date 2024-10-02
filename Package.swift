@@ -1,4 +1,4 @@
-// swift-tools-version:5.8
+// swift-tools-version:5.9
 import PackageDescription
 
 let name = "TimeZoneIdentifier"
@@ -7,7 +7,7 @@ let package = Package(
     name: name,
     defaultLocalization: "en",
     platforms: [
-        .macOS(.v10_15), .iOS(.v12), .watchOS(.v6), .tvOS(.v13)
+        .macOS(.v10_15), .iOS(.v12), .watchOS(.v6), .tvOS(.v13), .visionOS(.v1)
     ],
     products: [
         .library(name: name, targets: [name])
