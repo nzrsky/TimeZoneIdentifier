@@ -5,5 +5,5 @@ gem "jazzy"
 gem "cocoapods"
 gem 'activesupport'
 gem 'cocoapods-trunk'
-gem 'danger'
+gem 'danger', '>= 9.5.1'
 # gem 'fastlane'
